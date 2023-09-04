@@ -1,0 +1,6 @@
+[submodule "Empruntout-BackEnd"]
+	path = Empruntout-BackEnd
+	url = git@github.com:NaimDali/Empruntout-BackEnd.git
+[submodule "Empruntout-Front"]
+	path = Empruntout-Front
+	url = git@github.com:NaimDali/Empruntout-Front.git
